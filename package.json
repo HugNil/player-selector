@@ -1,0 +1,17 @@
+{
+  "name": "choosen-players-dcbot",
+  "version": "1.0.0",
+  "description": "Discord bot för att välja spelare",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2"
+  }
+}
